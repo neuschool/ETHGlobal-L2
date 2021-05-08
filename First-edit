@@ -1,0 +1,499 @@
+RegenYield
+
+Incentivizing the Preservation of the Earth Systems
+
+A. Gujral 
+
+May 9th, 2021 (v 0.3)
+
+
+Foreword 
+
+The following paper is structured in an alternative way. This format is known as the Socratic dialogue and allows the reader to be guided through the discussion in an informal and logical manner. 
+
+The method used here will allow us to unpack a protocol for making truly regenerative products affordable and more widely available through decentralized and trustless databases (i.e., blockchains). 
+
+It unfortunately lacks significant technical details and clarifications. My apologies. This will be added in future versions.
+
+Abstract 
+Summary 
+
+Regenerative Yield – Crowdfunding for planet earth 
+
+Utilize new social contracts between all stakeholders of a product or unit of energy being produced and utilized in our systems. 
+
+
+
+Tokenize the commons 
+
+Proof of production 
+
+
+
+
+
+
+
+Epoch 1 – The Situation. 
+
+Amer: Why do you look so sad, my friend? 
+
+Rema: It is simply that we live in the 21st century and have the most magical of technologies but still cannot agree on how to treat and interact with the environment. This is leading to devastating climate change. 
+
+Amer: Do not fret too deeply about these questions – as you know, we can never fix problems perfectly, but we can and should always try to get closer to the truth and reach a better alternative. 
+
+…. a moment of pause ….
+
+So, let us commence to see if we can re-align incentives and come to a new agreement on how to run a more efficient and effective system that allows for a dynamic symbiosis with our natural world. 
+
+We shall start with where we have come from to understand the problem at hand. 
+
+Let me ask you: what exactly is the problem with climate change? Doesn’t your weather change every day?  
+
+Rema: Yes, surely my weather changes, that is called seasons. With climate change I am referring to the warming of our globe that is causing extreme weather patterns all over the world. 
+
+Amer: Why is the planet warming? Does this cause erratic weather patterns as you state? 
+
+Rema: Well, you are right, the underlying cause is the spike in Carbon Dioxide (C02) levels in our atmosphere. This causes the weather patterns to go astray from what we humans call normal as more heat is stored in C02 molecules in our atmosphere. 
+
+Here I found this graph which shows the C02 levels to clarify: 
+
+ 
+
+„As a point of reference, pre-industrial CO2 levels were around 280 parts per million (ppm) and today, we stand near 420 ppm. 
+
+Today, we stand on the threshold of a new geologic era, which some term the "Anthropocene", one where the climate is very different to the one our ancestors knew.“ 
+
+Amer: Fascinating! That graph does help with my understanding indeed. Though, I want to understand is this our only relationship with the environment that is causing an unfavorable outcome? This gas can’t be so bad! 
+
+Rema: Quite right, the C02 gas is beneficial if kept in a certain range – this after all allows plants and life to thrive. But if unchecked it can cause a so-called runaway greenhouse gas effect. This includes methane, carbon dioxide and more. 
+
+Anonymous Student in crowd: So, it is these bad gases! We can use technology and new incentives to keep them in check. Is not a carbon tax what you are looking for? 
+
+Rema: I too was like you, young woman! I will hold off on commenting on a carbon tax for now. 
+
+You correctly note that these gasses seem to be the enemy and the carbon tax did give us hope… briefly but hope, nonetheless. 
+
+We need to be conscious that we are talking about the climate cycle. This system has given us consistent weather patterns which have allowed for life and plants (think food and humans) to thrive and create biodiversity. 
+
+Once we realize what this gas does and how it interacts in our environment on a system level, we realize we have gone wrong in so many more ways. 
+
+Amer: Now, now, let’s not be so pessimistic. 
+
+Rema: Simply put these gases that we are emitting are excess gases that were not accounted or expected by the natural systems which we rely on. Sticking to C02 for simplicity we see that the carbon sinks cannot process this sheer amount of C02 we are adding to our atmosphere. It was not predicted by nature. We move and change our environments quicker than nature can react to in an equal timely manner. 
+
+So, I propose that the real enemy is waste. 
+
+If we look at the definition of waste we read: “use or expend carelessly, extravagantly, or to no purpose “. 
+
+I ask you professor, what other thing are humans expending extravagantly or creating for no purpose? 
+
+Amer: I see that you have thought about this conversation before. 
+
+… quietly thinks … 
+
+I agree that waste seems to be the apparent problem. We have gasses that are wasted and released but also energy and materials in creating certain products that are used once (like plastic) or wastewater in yet other processes. 
+
+Again, though I want you do bring it back to what mankind is doing – just think about recycling or carbon taxes. There is no reason to be in such sorrow. 
+
+Rema: Sure, let us talk about the revered carbon tax as my fellow comrade brought it up as well. I will not claim that we should not have this tax. However, I cannot and do not see an adoption of this tax happening at a quick enough and wide enough scale. This protocol on how we behave with carbon has failed us. 
+
+A carbon tax is one tool in the toolbox. And yet this tool is a pretty sh*t one. We have no trustworthy way of tracking the carbon consumption of a product through its lifecycle. Something I have heard being called cradle to cradle tracking. 
+
+Amer: I appreciate your passion here, Rema. 
+
+Rema: I appreciate you trying to flesh this situation out with me. Note though another waste you forgot to mention is the chemical waste that is created from industry. I believe you will see a pattern from here on out… 
+
+The basic assumption of a carbon tax is that cheaper (unsustainable) products will become more expensive with this tax thereby making sustainable options more attractive. My problem here is that no rational profit and growth seeking entity wants to make things more expensive for themselves and their fellows. 
+
+This causes a drag on the adoption of this tax. Additionally, the carbon market that prices the cost of 1 ton of carbon seems to be opaque and dictated by a shadow group with unknown motives. 
+
+As for recycling – this once again sounded like the knight in shining armor but if we look at the industry, we see it has hardly made a dent in the quantity of waste being created. 
+
+My deduction is that it is very difficult to know what exact material composition was used, thereby making the operating expenses of recycling plants higher than feasible. So, this distrust and unverified process means it all lands back at the same place. Do you know what is okay to recycle? 
+
+I will spare you from answering. But note again recycling is just another tool in the toolbox not the final judgement. 
+
+The last observation I want to make about this is the sheer size of stuff being produced and ‘consumed’. Amazon estimates that Small and Medium-size Businesses in the US sell more than 4000 items per minute . And this is only in the US for SMB. 
+
+Amer: You are proposing making products and services that are sustainable cheaper rather than unsustainable products more expensive, correct? Is this not a subsidy? 
+
+Rema: Yes, I would propose that this would be a nice alternative for businesses that act properly to be rewarded. Again, you are right that it is a sort of subsidy. However, we now venture into governance issues rather than the analysis of the climate problem. 
+
+Amer: Quite an astute remark – you are right to question the motives and actors behind the tax and subsidy rules. This would be touching on morality and justice which are far too complex for our schedule to allow. 
+
+But I want to keep probing you on the problem before we get hasty and jump to a solution my dear. 
+
+Specifically, who would you say benefits from the rising GHG levels? Or more specifically, how does C02 even get into the atmosphere? 
+
+Rema: These are complex questions professor, but I will try to answer to the best of my abilities. 
+
+The parties who benefit from this disaster are ultimately no human actor as the climate becomes more unstable and uncertain. 
+
+However, for the moment I would argue and entertain the idea that the governments and companies that produce without being accountable for their emissions are benefiting as their cost of production is lower than it should be. 
+
+As we see the largest emitters by country  are China, US, and Europe. But more alarming we see a sudden spike in C02 emissions that started around 1860. 
+
+From my understanding this coincides very closely with the onset of the industrial revolutions. During the second industrial revolution we invented petroleum refining, electricity, and of course mass production for all our needs and desires. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+During the late 1800s and early 1900s we had rapid advancements in steel production, chemicals, electricity, and weapons. It became easier to get around on trains, cars, and planes. We got the radio, telegraph, and newspapers. Briefly put it was the technological magic of yesteryear. 
+
+Ultimately, our life used to depend on seasonal changes, not so much anymore – think about your work schedule, does it change depending on the weather or season? 
+
+No. We became the ultimate wielders of the environment for a short time. Slowly but surely it is showing us its true force and repercussions from our unrestrained and wasteful behavior. 
+
+Coming back to what you inquire about – namely who puts this waste in our air, land, and water. But you also ask about the why and how. 
+
+Amer: Yes, my question pertains to the governance of such horror and what incentives (economic) were at play. As the saying goes: ‘follow the money’. 
+
+Rema: If I may say it is a sensible and thoughtful question but unfortunately with an unclear answer. 
+
+And yet we continue… with the purpose of striving to be closer to the truth, even if by a small margin. 
+
+In fact, if we look at the next graph , we see the split of C02 emissions by sector. It shows the majority of emissions stem from energy production, transport, and manufacturing. 
+
+ 
+
+So, we may be right to assume that the entitles behind these industries were the benefactors of the pollution. 
+
+Again, we may probe further and ask who governs these industries? Surely just governments, businesses, and individuals. Since much of the share is accounted for by governments and businesses, we can again ask who governs these organizations? 
+
+Anonymous Student in crowd: It is surely us! We live in a democracy and the businesses are owned by the shareholders. 
+
+… the student proclaims … 
+
+Rema: Ah! I see we have an idealist or a gullible brainwashed child in the audience! 
+
+You are right to say we live in a democracy, but it is a representative one which supports lobbying, remember that. 
+
+Shareholders are indeed the owners of businesses but are you a shareholder – with significant say – in the biggest emitters globally? And if so, have you tried to stop them from polluting? 
+
+It simply is not in their economic interest to do so. 
+
+Amer: How would a business or government price the cost of 1 ton of C02 or a liter of wastewater dumped into the local lake? 
+
+Rema: Once again, you hit the nail on the head. It is a question of pricing and specifically, who sets the price. 
+
+We now encounter the situation called: ‘the tragedy of the commons”.
+
+The essence is that if something is commonly owned (i.e., everyone has access to it) it will be destroyed through the selfish and uncoordinated interests of the individuals that make up the whole. 
+
+We see this pricing failure from deforestation, animal extinction, monoculture farming and of course in the examples we spoke about earlier (air and water pollution). 
+
+Fundamentally it is a governance / accountability problem that leads to an economic problem of how to value these newly accounted for assets. 
+
+Amer: What does that mean? That government and businesses are not capable and rational price setters? 
+
+Rema: Actually, the opposite! Businesses and governments are acting rationally to keep their costs down. 
+
+And do not get me wrong. I am not blaming any party of the past generation as I will give them the benefit of the doubt that they did not do this on purpose. 
+
+But now we know better and therefore must do better. 
+
+Getting back to the question on governance we see alternative models being proposed which you may be aware of. 
+
+Moving from shareholder capitalism to stakeholder capitalism would create a more holistic approach which we can see on the right : 
+
+
+
+
+
+These are clear steps in the right direction just as a carbon tax, recycling and b-corporations are. But as you may guess, these tools are not the full solution. 
+
+Amer: My dear, Rema, can you please relate this to what hangs heavy in the air – that is the question of what really is value? I will start by saying that price is just an abstraction of value. 
+
+Rema: Some may say that value lies in the eye of the beholder just as beauty does, but we will try to go further. 
+
+We may say value is anything that provides hope to the owner(s). A more analytical answer would claim that value is if the benefit of the product/service was reached at cost. That being not for 3x the price… 
+
+I will relate this back to the question of governance – this is because if no one oversees pricing the assets (rationally) then no one will which leads to a market failure. 
+
+No prices, no problem! 
+
+Economists call this a negative externality. These misaligned incentives of the private cost vs social cost create a deadweight area which is not valued. 
+
+From our analysis we have termed this deadweight to be waste. Think wastewater, chemicals, excess materials, overproduced units or even simply C02. 
+
+Governments (and businesses with lobbying) try to quantity and price the market failure with taxes (negative externality) and subsidies (positive externality) . 
+
+Amer: What are the consequences of that statement? 
+
+Rema: Well, in my opinion, transparent, active (many participants) and liquid markets should be pricing our commons. 
+
+Not governments that can be lobbied by the organizations that have a rational and even legal obligation (fiduciary duty) to keep costs down. 
+
+Quantification is tough but a type of crowdfunded model assisted by technology would work to price these assets. Assuming that the new power holders have the right data, facts and education to make decisions on this. 
+
+Amer: Aha! It may then be a better assumption to fix climate change with an education model rather than technology, governance, and incentive. 
+
+Rema: Yes, education is surely a component of the solution, but we need to act swiftly with the climate problem. 
+
+What we are seemingly getting to is a system that would be more democratic as my peer suggested. It may even be a way of conducting stakeholder capitalism. 
+
+Theoretically, these markets could replace the old incentive mechanism to price the costs of waste accurately and efficiently. 
+
+Angela (Student in crowd): Tokenize the commons! 
+
+Epoch 2 – The Solution. 
+
+Amer: Tokenize the commons… is this how technology can help? 
+
+My friend if I may - I agree with your following assumptions: 
+-	Waste is a major culprit in stopping true regenerative systems to thrive. Afterall regenerative simply means re-birth. 
+-	More specifically, waste tracking (e.g., C02) is poorly executed in our current system. 
+-	Externalities and taxation from a few in charge are creating a market failure which is causing an unnecessary burden on the commons and generally misaligned incentives. 
+-	Carbon taxation and recycling are baby steps in the right direction where we need leaps. 
+-	Cradle to cradle (holistic system) thinking is needed to align all actors towards the same goal. 
+-	We should look at reforming the subsidy system for alternative methods and processes to make the regenerative options cheaper rather than making the wasteful options more expensive, exclusively. 
+
+It seems like the problem and governance questions are clear. However, the economic umbrellas of value and what the commons are still seems to lead me astray. 
+
+Can one not claim that we humans are the commons, and we solely assign value to them as the only actors? 
+
+Rema: Indeed, let us explore the questions of value and commons deeper before discussing how technology may aid us in this endeavor. As we have heard tokenization may be a path worth exploring. We will return to this shortly. 
+
+Your hunch is not far off. In fact, to a certain extent we are part of the commons. 
+
+The question of value can either be understood as a mispricing or in some cases no pricing of the assets - that is the assets we are wasting are thereby turned into a liability. 
+
+More broadly though I would explain this question with three prongs that we must weigh a decision on. If we hold all value chain stakeholder (or simply stakeholders of an entity) accountable for their actions in relation to these three scopes and align our incentives to them we have made significant progress. 
+
+See the three circles below  as the earth systems (lithosphere, hydrosphere, atmosphere, & biosphere), our economic engine and of course society and us. If we are able to balance these three forces, we just may be able to have temporary sustainability. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It will be up to the next generations to judge our actions and iterate as necessary. 
+
+Amer: I understand more clearly now, young man. This is quite a change indeed. 
+
+It may be more appropriate to ask Angela to help us be guided to a solution as she proposed the tokenization of the commons that you found intriguing. 
+
+Rema: Yes, that would be great. I am open to being shown the true light at the end of this illusion of a cave. 
+
+Angela: Thank you for the analysis and I sympathize with why you are discouraged with the facts. But I have always found looking and constructing a solution to be the quickest way out of misery. 
+As I understand so far, businesses, governments and individuals are not held accountable for how we interact with the earth systems. Yet, fundamentally, individuals oversee these resources but not provided with the necessary tools to truly act responsibly. 
+
+I propose that we use transparent tokenization, distributed databases, and the power of the crowds to re-align incentives in an efficient and effective way. 
+
+It may allow us to truly have the whole ecosystem be responsible for the value creation (cradle to cradle) of what we collectively need and utilize. 
+
+Amer: This sounds intriguing. 
+
+Let us focus on a specific example to understand our assumptions but also grasp how such a technology could impact it. 
+
+I personally know the fashion industry and the devastating effects it can have on our earth systems. 
+
+Angela: This makes sense. Let’s talk about the fashion industry. 
+
+Amer: First to grasp the sheer size of the industry. We learn that the “number of garments produced annually has doubled since 2000 and exceeded 100 billion for the first time in 2014” 
+
+Waste is a common effect in the fashion industry.
+
+Regarding, C02 we learn that 10% of global emissions  stem from the fashion industry which is equivalent to the EU or all international flights and maritime shipping combined. 
+
+As for recycling… around “85% of all textiles thrown away in the US (…) are either dumped into landfill or burned (…) equivalent to a rubbish truck full of clothes ends up on landfill sites every second.” 
+
+Globally, just “Globally just 12% of the material used for clothing ends up being recycled.” 
+
+Other large waste items include wastewater – the industry is responsible for 20%  of the global share 
+
+Amer: What about the incentives to curb these market failures? 
+
+Angela: I would also see the bright side – recycling is picking up with clothes donations and secondary marketplaces. This is in essence cradle to cradle just quite inefficient. 
+
+Rema: It remains bleak when we look at how effective the incentives have been. Simply said “according to the UN Framework Convention on Climate Change emissions from textile manufacturing alone are projected to skyrocket by 60% by 2030.” 
+
+Donations too “are being used as a way of simply passing on the textile waste problem to others.”  And the secondary markets are currently inefficient at best. 
+
+For true recycling efforts to work we need clothes and fabrics “to be designed in ways that make them easier to recover and recycle.” 
+
+Anonymous Student in crowd: The labor practices . are a market failure as well! Just think about the history of the cotton industry… 
+
+Rema: Spot on. 
+
+Back to your comment about circular models appearing in the industry, Angela, we do in fact see this. Though, slowly. 
+
+Here we see how it would work to create true circularity in the jewelry industry : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Even with these efforts the problem remains on how to create and enforce an incentive model that takes the earth systems into consideration. Not just the economy and consumer. 
+
+Within the pockets of sustainability driven change, we see unclear standards and transparency on what this really means and how it is being agreed on. 
+
+Would tokenizing the commons really relate to this? 
+
+Angela: Before we focus on the comment about tokenization, I would like to take the liberty to move a bit further out namely closer to what type of technology we need. 
+
+In essence a technology is just a tool to accomplish our goal. In this case we are using technology to drive down the cost of certain practices that are deemed to be more conscious of the three large stakeholders (earth systems, economy, and society) through distributed accountability. This is counter to the traditional models of driving down the cost through scale and centralized accountability. We also want to stay away from representative democracy governments leveraging the tools of taxation and subsidies inefficiently. 
+
+Our goals are as follows: 
+-	Capture proof of ‘Provenance’ of products and meta data about manufacturing practices / standards (including C02 emissions, water consumption and hours of labor used to name a few)
+-	Codify business logic to enable a trustless and frictionless transaction economy through digitized (smart) contracts (including giving automatic rewards for the right practices)
+-	Trustworthy data sources that are shared openly (creating free, open, and liquid markets)
+-	Consensus on regenerative metrics to focus on and decision on how / where to price the commons 
+-	Security of data and transactions given the nature of users (individuals, businesses, and governments)
+-	Immutability / finality just like the real world is when we use x units they are used for good and cannot usually be rewound 
+
+To me this sounds quite a lot like a distributed database structure that allows us to crowdfund stakeholder decisions on pricing and incentives – or in simple terms a blockchain. 
+
+The goal would be to tokenize any material, product, and service and create an alternative consensus model called ‘Proof of Production’. 
+
+A product produced attaches an NFT  to it so that its lifecycle can be measured. All the meta-data will now be captured around the sustainability metrics that the governing body has agreed on. This NFT could not only help in provenance and data sources but also in codifying business logic. 
+
+This is where things get fascinating. 
+
+Rema: Let me stop you here and firstly give you kudos as it seems like you too have thought about this. 
+
+But I am worried you forget one thing. We need SCALE! These industries are massive. The fashion industry produces over 100 billion items a year and this does not include the supply chain steps in between. 
+
+Transactions, database entries and requests need to be quick and cheap while also being all the things you mentioned above. 
+
+Angela: 
+
+
+Authenticy check / ID check / clear fakes / customs 
+Fully traceable -> hours worked by whom where, commons impact on biosphere (animals, plants), atmosphere and litosphere -> verify cradle to cradle 
+
+
+Smart contracts -> if then -> execute 
+
+HOW? 
+Smart contracts -> if then statements 
+F For human coordination
+Condition and outcome 
+Hypothesis and conclusion 
+
+If x units of waste occur -> ie the NFT was not accounted for down the supply / value chain -> no one gets the reward locked in the nft 
+
+If you support our network early -> more validators -> more reward 
+
+If you produce more supply -> earn more validators 
+
+If you catch fakes -> earn & burn old series 
+
+If you recycle -> burns nfts -> creates new ones for a cheaper "price" -> reused -> reward to all actors 
+
+Production method certified -> labor 
+
+If energy used then note how much -> upload utilites 
+
+If this much water is used -> then the nft has this quirk 
+
+If you produce 1 unit of c02 -> x trees are planted with drones in the other side of the world 
+
+If those trees grow to be 40 years old -> x happens
+
+If copyrights are enforced (anti- opensource) -> burn tokens? 
+
+If carbon sink is created or paid to (silivia terra) 
+
+If validator runs the servers -> proof of stake -> penalty for too strong concentrations 
+
+If x tokens -> vote on protocol changes -> more votes in the past -> increases rank in weighting (CHECK POPCORN) 
+
+If insurance is provided to supply chain / network users based on the metrics included -> can act as a clearing house 
+
+If good is delivered -> payment 
+
+If value is created x happens 
+
+If value is destroyed y happens 
+
+If randomized quality inspection happens and passed -> 
+
+
+QS: Does this make sense? What evidence is there to support this? 
+
+
+Efficiency and effective -> communication medium for a trustless sytem -> blckchain attributes -> network to work with each other even though they do not know each other -> reuse the item and get rewarded! 
+
+NFT -> customer buys the physical and digital -> 
+
+-	Circularity & standards -> produce x sustainabily & carbon neutral 
+-	Incetives / economics -> incentive to eliminate waste (or whatever other metric is chosen) -> disincent carbon footprints, fresh water usage, waste, bad labor practices 
+-	Governance -> reward for valuable time and experience added to the network 
+-	Market creation 
+o	Crowdfunding -> tokenecnomics 
+	Helium -> incentivze mesh network being created 
+	Streaming service
+	File storage 
+	Ngos 
+
+See proof of provenance -https://www.provenance.org/technology and serbiaan 
+https://www.circularise.com/
+
+
+Goal: offset the price change of unsustainable productions and sustainable production -> reward using technology, governance and economics 
+
+If you spend time in building this network you get rewarded
+
+Epoch 3 – The future.   
+
+Foster hope - Create a market and incentives 
+
+Present an idea that sits at the intersection of sustainability, NFTs & DeFi.  We aim to make sustainable products cheaper with DeFi yields. The NFTs are the digital representations of the sustainable product.
+
+Emergence: 
+Less fakes 
+More circular and regenerative 
+Public & private good markets -> public goods and commons are priced 
+
+
+multi industry applicaton -> food, beverages, fmcg, retail, materials to name a few 
+manufacturing, energy, cross border (customs clearance!)
+
+Anthroposcene to anthroposhere 
